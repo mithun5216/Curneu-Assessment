@@ -1,0 +1,6 @@
+Do you understand why you should -
+lz instead of -lzlib? 
+I've seen that the zlib package installs a libz.a file 
+(and a libz.dl.al) but I haven't figured out why it's different on this system. 
+For me, it matters
+ because I'm installing a python package, lxml, which I cannot modify
